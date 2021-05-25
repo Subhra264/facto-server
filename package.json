@@ -1,0 +1,21 @@
+{
+  "name": "facto-server",
+  "version": "1.0.0",
+  "description": "The backend for Facto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facto"
+  ],
+  "author": "Subhra264",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
